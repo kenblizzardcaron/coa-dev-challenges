@@ -22,7 +22,7 @@ ex: validate_url('www.austintexas.com')
 returns: 'www.austintexas.gov'
 ```
 
-Your job is to write a series of tests to make sure that our function follows these 3 rules.
+Your job is to write a series of tests to make sure that our function follows these 3 rules. These tests should validate that this code will not cause errors in production. If you do not have enough time to write out all the tests that you think are applicable, you can just list them.
 
 If you happen to discover any bugs along the way:
   - write a failing test that catches it
@@ -35,6 +35,7 @@ What we're looking for:
 ### Instructions
 
 - You must work on this alone. Do not share the code challenge with others.
+- Have fun! Be creative!
 - We have a sample test file in `test.py` to get you started. However, you're free to use any language (though preferably python or nodejs), frameworks, tools, or libraries you like.
 - If you decide to use a different framework, please include instructions for us to run your code.
 - If you decide to use `test.py`, follow these steps to get it running:
