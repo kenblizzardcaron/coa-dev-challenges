@@ -13,6 +13,7 @@ Take an hour or two and play around with the code in this repo. Create something
 
 - Check out more info in [the frontend challenge](./frontend).
 - Check out more info in [the backend challenge](./backend).
+- Check out more info in [the qa challenge](./qa).
 
 #### A note on time.
 
